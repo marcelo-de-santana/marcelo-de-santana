@@ -38,6 +38,6 @@ Estou sempre buscando novos desafios e oportunidades para aprender e crescer. Se
 </div>
 
 <div align="center"><br>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=marcelo-de-santana&show_icons=true&count_private=true&theme=dark"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-de-santana&layout=compact&langs_count=6&hide=c%2B%2B,objective-c%2B%2B,objective-c,ruby,css&theme=dark"/>
+  <img height="175" src="https://github-readme-activity-graph.vercel.app/graph?username=marcelo-de-santana&theme=high-contrast&bg_color=151515&line=79ff97&radius=16"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-de-santana&layout=compact&border_color=a5a6a9&langs_count=6&hide=c%2B%2B,objective-c%2B%2B,objective-c,ruby,css&theme=dark"/>
 </div>
